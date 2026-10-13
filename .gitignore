@@ -1,0 +1,15 @@
+# Local environment credentials
+.env
+
+# Database and application backups
+backups/
+*.sql
+*.sql.gz
+*.tar.gz
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
